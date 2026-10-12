@@ -22,3 +22,5 @@ python3 minimize_owner_delta.py --base /path/to/pr617/data \
 The last command uses OR-Tools 9.15.6755. Its `OPTIMAL` status refers only to choosing each changed helper's original or proposed owner while holding every bin's load fixed. It is not an optimal-packing certificate. It reduces 1,849 changed placements to 1,432. The final standard-library exporter replaces intermediate PLAN provenance with the directly pinned PR617 inputs and recomputes all offsets and profiles. Uniform seed-0 swaps and the later temperature-4 seed-2 continuation found no further gain; their search summaries are retained.
 
 Python 3.12.3 and Linux x86_64 were used. The new work was prepared by Jeremy Diviney with OpenAI Codex assistance. Construction and prior-verifier credit remains with jeremykothe2 (PR617), DreamingOfClouds (PR604), and all predecessor contributors named in the package NOTICE. No supplier construction is attributed to this repacking.
+
+Intermediate search PLAN files are retained as `PLAN.json.gz` to keep the review diff compact; decompress them to `PLAN.json` before rerunning an as-run search command. The compressed files preserve the exact original bytes.

@@ -1,0 +1,26 @@
+{
+  "status": "PASS_CONTRIBUTOR_FRESH_REPLAY_AND_SHARED_REPOSITORY_SUITE",
+  "base_commit": "904d62855723c00f8acef9a287a10768598fdeb2",
+  "package_manifest_sha256": "b5c971883da00afae9aa0e846589a862faba36b54f9bf7a3e6e3da78f701e9e4",
+  "spec_sha256": "4056458f21eb58e3de0bc53b811e78fc4b3dcd8f25c1b8e0a83598790e2bf9fe",
+  "kappa": "0.001635199825038547",
+  "exact_kappa": "1635199825038547/1000000000000000000",
+  "fresh_stages": 42,
+  "baseline_reused": false,
+  "providers_reused": [],
+  "owner_mutations_rejected": 23,
+  "assembly_mutations_rejected": 114,
+  "changed_placements": 1432,
+  "offset_only_changes": 1258,
+  "repository_make_verify": {
+    "status": "PASS",
+    "isolated_modules": 84,
+    "log_sha256": "e55dc2207ba72f1352e55852a33cf145f375e6d8366e45e8d98e4b6dd0c406f2",
+    "includes_gen4_bank_verify": true
+  },
+  "environment": {
+    "python": "3.12.3",
+    "platform": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39"
+  },
+  "scope": "Conditional native exact-complex witness after complete conservative admission, moment and outer checks; PR559 exact-cover recurrence correction only, bit bad-residue surcharge and H1-H5 retained. The frozen PR582 plain-joint-prefix, added-kernel and entrance-promoted provider dispatch with the new frame coalescences composed with cited unchanged PR543 bit supplier. All-size compiler, common-label/mutable-source realization, whole-call hosting, precision/tape and analytic transfer remain assumptions. No unconditional theorem or full Lean certification."
+}

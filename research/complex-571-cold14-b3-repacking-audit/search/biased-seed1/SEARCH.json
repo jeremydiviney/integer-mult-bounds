@@ -1,0 +1,28 @@
+{
+  "status": "NOMINATION_REQUIRES_ADMISSION",
+  "seed": 1,
+  "trials": 10000000,
+  "temperature": 1.0,
+  "accepted_swaps": 332650,
+  "improving_swaps": 4733,
+  "entropy_gain": 1.6278669289240497,
+  "seconds": 21.58088463509921,
+  "idle_profile": {
+    "1": 24,
+    "4": 1,
+    "8": 1,
+    "12": 1,
+    "48": 2150
+  },
+  "best_history": [
+    {
+      "trial": 19168,
+      "entropy_gain": 1.115717756569211
+    },
+    {
+      "trial": 130319,
+      "entropy_gain": 1.6278669289240497
+    }
+  ],
+  "changed_owner_records": 1285
+}

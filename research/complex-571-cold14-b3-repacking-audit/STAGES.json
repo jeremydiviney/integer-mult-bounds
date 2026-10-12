@@ -1,0 +1,254 @@
+[
+  {
+    "name": "frozen558-full-replay",
+    "exit_code": 0,
+    "seconds": 155.183,
+    "log_sha256": "2535d83d4941f19fa0b8d540c9f43277510a3c09995023fe284fc3c65e772603"
+  },
+  {
+    "name": "jp8-step0-cold_kernel-construction",
+    "exit_code": 0,
+    "seconds": 0.204,
+    "log_sha256": "7a13ad21a3e4e12710e37ab9d1c54a90b2b8741fc3f5f620c363844e9cd766fb"
+  },
+  {
+    "name": "atm3-step0-promote-construction",
+    "exit_code": 0,
+    "seconds": 0.293,
+    "log_sha256": "3096b12dfabe0f2e410132d888fdd9c8c9b81d62578c92440e19482481aa64a3"
+  },
+  {
+    "name": "jp8-step0-cold_kernel-omissions",
+    "exit_code": 0,
+    "seconds": 1.989,
+    "log_sha256": "a64c8d0998fb64a4ef0b28a96637f208b8cbbb22b02c43a71ca5b4f00c275e32"
+  },
+  {
+    "name": "atm3-step1-greedy_kernels-construction",
+    "exit_code": 0,
+    "seconds": 3.282,
+    "log_sha256": "40511901fa6d6da38cb7fc1b2fcc538d1e6daf7e487738b5baeced3ceee93959"
+  },
+  {
+    "name": "jp8-step1-multicut-construction",
+    "exit_code": 0,
+    "seconds": 2.031,
+    "log_sha256": "6f1fd8e202891558084ac9ee00606bbff0659c869f1bf6414461d87f6b67c53c"
+  },
+  {
+    "name": "jp8-step1-multicut-omissions",
+    "exit_code": 0,
+    "seconds": 8.761,
+    "log_sha256": "3f52a3d40481d4e9360d9320bab4a42c580cccdefdc3cab2e4f8225263018c90"
+  },
+  {
+    "name": "atm3-step1-greedy_kernels-omissions",
+    "exit_code": 0,
+    "seconds": 12.812,
+    "log_sha256": "e57622df5f252d2027d1c92e3fa8aae67d5db2a4318df110fcc8d9db99c0a2b3"
+  },
+  {
+    "name": "jp8-step2-frozen558_scalar_audits-static44",
+    "exit_code": 0,
+    "seconds": 5.095,
+    "log_sha256": "349924aaa9888edbe6e126e02df3a186c97d9fb4c064667252ce9918987134ea"
+  },
+  {
+    "name": "atm3-step2-frame_coalesce-construction",
+    "exit_code": 0,
+    "seconds": 1.719,
+    "log_sha256": "a04d41205fca28d21c490b4b103d74c1e000ec7f72cb07138ed92fb514db9fba"
+  },
+  {
+    "name": "jp8-step2-frozen558_scalar_audits-rank5",
+    "exit_code": 0,
+    "seconds": 1.241,
+    "log_sha256": "bab3028f59a9b024df5f20d2c0f3755933cea161bfd49ab676fa6133f58a05db"
+  },
+  {
+    "name": "atm3-step3-gate_move_coalesce-construction",
+    "exit_code": 0,
+    "seconds": 1.187,
+    "log_sha256": "e9b4318629d9418901f9dee885dae2f4d01c5eac0b60eb9f9ddefe6afec2e4b8"
+  },
+  {
+    "name": "atm3-step4-hyperplane_end-construction",
+    "exit_code": 0,
+    "seconds": 0.063,
+    "log_sha256": "a49956f086ee7b48647d9824069c1ade3fc9b89005f43c85dbba39cb21ef279b"
+  },
+  {
+    "name": "jp8-step3-joint_prefix-construction",
+    "exit_code": 0,
+    "seconds": 0.276,
+    "log_sha256": "9d4cf22962c6e9358f935ca7d6ea5bc0fb64b54112d6d8d3ce5ad63fb2fb037c"
+  },
+  {
+    "name": "atm3-step4-hyperplane_end-controls",
+    "exit_code": 0,
+    "seconds": 6.427,
+    "log_sha256": "78e1f97509bdc4e4ee668f289477de8917d43e5f5f3abfe352ec00eaf57c8a9b"
+  },
+  {
+    "name": "atm3-step5-cold_end-construction",
+    "exit_code": 0,
+    "seconds": 0.212,
+    "log_sha256": "bd5ea9f8e8c05d9afbc2ee632aec9b8d1e421e2581e952b93244b73c49d6afd5"
+  },
+  {
+    "name": "atm3-step5-cold_end-controls",
+    "exit_code": 0,
+    "seconds": 25.243,
+    "log_sha256": "0d7c1d6dc923e30aa24e4ece72f65cdcd72ae8935a9ccff97c779eb04f399537"
+  },
+  {
+    "name": "atm3-all-columns-native-frames",
+    "exit_code": 0,
+    "seconds": 1.274,
+    "log_sha256": "92f759643627ddacc24d13d8e8625a3ab8f83ce278435d76a6e2abf92d1f7bc9"
+  },
+  {
+    "name": "atm3-both-reflected-ledgers",
+    "exit_code": 0,
+    "seconds": 0.863,
+    "log_sha256": "81003eca612585b6830855be7acaff3a74123ddb111fdec6547a9431aed514f4"
+  },
+  {
+    "name": "jp8-step3-joint_prefix-all-kernel-omissions",
+    "exit_code": 0,
+    "seconds": 36.463,
+    "log_sha256": "13fae47d3799fead98d1c0df5702516c3cbebf27636a35ae3e7d494274fef5cf"
+  },
+  {
+    "name": "jp8-step3-joint_prefix-rank5-omissions",
+    "exit_code": 0,
+    "seconds": 1.301,
+    "log_sha256": "bab3028f59a9b024df5f20d2c0f3755933cea161bfd49ab676fa6133f58a05db"
+  },
+  {
+    "name": "jp8-step3-joint_prefix-independent-joint-prefix-and-coverage",
+    "exit_code": 0,
+    "seconds": 0.175,
+    "log_sha256": "71720fe1f7eeabaf40bb9d8b84fa9f203a058fd26147c80124801e6e94dc8d34"
+  },
+  {
+    "name": "jp8-step4-hyperplane_end-construction",
+    "exit_code": 0,
+    "seconds": 0.057,
+    "log_sha256": "a49956f086ee7b48647d9824069c1ade3fc9b89005f43c85dbba39cb21ef279b"
+  },
+  {
+    "name": "atm3-independent-local-controls",
+    "exit_code": 0,
+    "seconds": 7.569,
+    "log_sha256": "dd643a58258431c3b07d3b06d9060c49677fa23b4fafc9f10988ed1f6867bd9a"
+  },
+  {
+    "name": "atm3-normalized-wrappers",
+    "exit_code": 0,
+    "seconds": 2.144,
+    "log_sha256": "24dae49ef485401b479048ab5f7ce92a06e5aac790169093933a14f807ef38f9"
+  },
+  {
+    "name": "jp8-step4-hyperplane_end-controls",
+    "exit_code": 0,
+    "seconds": 6.595,
+    "log_sha256": "c89dc746dcd7435b428d76f8edebcfc3989a105936afa776880118df2394128a"
+  },
+  {
+    "name": "jp8-step5-cold_end-construction",
+    "exit_code": 0,
+    "seconds": 0.217,
+    "log_sha256": "42b86a29a9f2a2fa63cd042cda4a5d24c0e6e502d0b963ca30334ba6ac61c92d"
+  },
+  {
+    "name": "jp8-step5-cold_end-controls",
+    "exit_code": 0,
+    "seconds": 23.21,
+    "log_sha256": "081bf9b8595705274d210ae9bc2c4d683f879c591c2c18ee9036cc33f3eb3ed5"
+  },
+  {
+    "name": "jp8-all-columns-native-frames",
+    "exit_code": 0,
+    "seconds": 1.135,
+    "log_sha256": "f7d89491d4ed726c1065558b24438580ad7195bb97f7089a93bfaec2d9775878"
+  },
+  {
+    "name": "jp8-both-reflected-ledgers",
+    "exit_code": 0,
+    "seconds": 0.74,
+    "log_sha256": "6b2964b302b6d7bc03bbfdc96f306fd94899311aa0de8a16507f6218768608c9"
+  },
+  {
+    "name": "jp8-independent-local-controls",
+    "exit_code": 0,
+    "seconds": 6.525,
+    "log_sha256": "dd643a58258431c3b07d3b06d9060c49677fa23b4fafc9f10988ed1f6867bd9a"
+  },
+  {
+    "name": "jp8-normalized-wrappers",
+    "exit_code": 0,
+    "seconds": 1.473,
+    "log_sha256": "74b13cf8570ca2f32ce0018575b1b73e95af77a28e59d09556fec59260bdbba5"
+  },
+  {
+    "name": "atm3-all-phase-edges",
+    "exit_code": 0,
+    "seconds": 102.712,
+    "log_sha256": "0ae48689e486c1a06b6c8c56c7473732cfa0cd23233ac24a133e001fa2e589aa"
+  },
+  {
+    "name": "jp8-all-phase-edges",
+    "exit_code": 0,
+    "seconds": 99.09,
+    "log_sha256": "7deb396d95e14da1d723f70fa22bed617ff359a0b6445f4312d6dc86676281da"
+  },
+  {
+    "name": "bind-providers",
+    "exit_code": 0,
+    "seconds": 0.384,
+    "log_sha256": "71f679ce5a123fb58397fd6852ba64ce3832fd20e81a096bfda9a1cf3237237a"
+  },
+  {
+    "name": "emit-controller",
+    "exit_code": 0,
+    "seconds": 2.969,
+    "log_sha256": "9471236e7a1ab2aa10e37f11439593bbca2bcb412957c6231d126de77b99fa71"
+  },
+  {
+    "name": "independent-controller-and-controls",
+    "exit_code": 0,
+    "seconds": 22.937,
+    "log_sha256": "088d3796541d2f7c21488088a4cd1b17c9d71c5daa4acf762d23d50b567738cc"
+  },
+  {
+    "name": "fresh-invoice",
+    "exit_code": 0,
+    "seconds": 1.18,
+    "log_sha256": "13b5b4da8de032ee8de40b7cd81a91783f5816e45a574840d842331c41962132"
+  },
+  {
+    "name": "conservative-and-native-exact-assembly",
+    "exit_code": 0,
+    "seconds": 0.253,
+    "log_sha256": "e547039afee37b145556af71d83218ae26cb5d8524c49eea404ee37c0700a7b8"
+  },
+  {
+    "name": "admission-controls",
+    "exit_code": 0,
+    "seconds": 0.348,
+    "log_sha256": "40f0c35552fb10f02288ae8d2c6b9f902050fb370c0a19b7b88c977d0d44dab1"
+  },
+  {
+    "name": "phase-timing-portability-controls",
+    "exit_code": 0,
+    "seconds": 0.722,
+    "log_sha256": "d4300a182a615922dd73ff2b945ff671086b86d5b80dbc009539e96d9b4dfe82"
+  },
+  {
+    "name": "actual-recompression-and-rebound-controls",
+    "exit_code": 0,
+    "seconds": 3.235,
+    "log_sha256": "9c20730203542b9a5ed97e1ce2e2c51526e88de0b2983d4f15d7e550b8ed02ea"
+  }
+]

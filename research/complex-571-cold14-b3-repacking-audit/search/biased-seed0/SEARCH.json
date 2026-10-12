@@ -1,0 +1,57 @@
+{
+  "status": "NOMINATION_REQUIRES_ADMISSION",
+  "seed": 0,
+  "trials": 1000000,
+  "temperature": 1.0,
+  "accepted_swaps": 34218,
+  "improving_swaps": 478,
+  "entropy_gain": 13.764718105427164,
+  "seconds": 2.3676239129854366,
+  "idle_profile": {
+    "1": 23,
+    "2": 1,
+    "4": 1,
+    "7": 1,
+    "12": 1,
+    "48": 2150
+  },
+  "best_history": [
+    {
+      "trial": 17569,
+      "entropy_gain": 1.909542504887213
+    },
+    {
+      "trial": 30026,
+      "entropy_gain": 2.249340578477131
+    },
+    {
+      "trial": 63539,
+      "entropy_gain": 3.2958368660110864
+    },
+    {
+      "trial": 64732,
+      "entropy_gain": 4.4004556511790724
+    },
+    {
+      "trial": 336650,
+      "entropy_gain": 4.767355791533191
+    },
+    {
+      "trial": 347543,
+      "entropy_gain": 11.515377526957309
+    },
+    {
+      "trial": 583727,
+      "entropy_gain": 12.901671888073906
+    },
+    {
+      "trial": 584851,
+      "entropy_gain": 13.424920031837246
+    },
+    {
+      "trial": 648938,
+      "entropy_gain": 13.764718105427164
+    }
+  ],
+  "changed_owner_records": 1556
+}

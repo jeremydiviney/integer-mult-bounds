@@ -1,6 +1,6 @@
 {
  "schema": "witness-expected/1",
- "witness_sha256": "cab17771cd7f8fdd72e78f587a80fd6ec7f00e5bc99f2c093e20c7fba5c6c36e",
+ "witness_sha256": "8e2d5924f7037b76b6312f372b4e0f67f5acbbbfa6c243b97238db1d7822c33c",
  "build": {
   "atm3": {
    "steps": [
@@ -1366,37 +1366,37 @@
   },
   "global_profile": {
    "1": 181848,
-   "2": 24770,
-   "3": 31778,
-   "4": 13728,
+   "2": 24768,
+   "3": 31776,
+   "4": 13729,
    "5": 5040,
    "6": 1008,
-   "7": 2,
-   "8": 576,
+   "8": 577,
+   "12": 1,
    "48": 2150
   },
   "owners_per_call": 728,
   "hosted_residuals": 36288,
   "rank_mass": 520704,
-  "actual_73column_sigmas": 7193,
-  "cross_replica_helper_roles": 26827,
-  "idle_remainders": 2180,
+  "actual_73column_sigmas": 7253,
+  "cross_replica_helper_roles": 26825,
+  "idle_remainders": 2177,
   "live": 7168,
   "physical": 7682,
   "deficit": 2560,
   "entering_helper_roles": 17712,
   "idle_remainder_profile": {
    "1": 24,
-   "2": 2,
-   "3": 2,
-   "7": 2,
+   "4": 1,
+   "8": 1,
+   "12": 1,
    "48": 2150
   },
-  "complex_lower": "1637861934441745021019/1000000000000000000000000",
-  "conservative_complex_lower": "1637861931583743594557/1000000000000000000000000",
-  "kappa": "817591864627889/500000000000000000",
-  "kappa_decimal": "0.001635183729255778",
-  "conservative_kappa_decimal": "0.001635183726407116",
+  "complex_lower": "327575616598658529771/200000000000000000000000",
+  "conservative_complex_lower": "818939040067647880449/500000000000000000000000",
+  "kappa": "1635199825038547/1000000000000000000",
+  "kappa_decimal": "0.001635199825038547",
+  "conservative_kappa_decimal": "0.001635199822189889",
   "mutations_rejected": 23,
   "assembly_controls_rejected": 114
  }

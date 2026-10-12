@@ -1,3 +1,13 @@
+# PR617 owner repacking: conditional κ 0.001635199825038547
+
+A coordinated repacking of PR617's literal owners increases the conditional bound from **0.001635183729255778** to **0.001635199825038547** (about **0.000984%**). The exact value is `1635199825038547/1000000000000000000`; the conservative value is `0.001635199822189889`. The jp8 ×60 / atm3 ×12 dispatch and all provider words, recipes, admission scripts and source pins are unchanged from PR617 at `904d62855723c00f8acef9a287a10768598fdeb2`.
+
+There are 1,432 changed placements and 1,258 additional packed-offset changes. The total spare rank is unchanged; its profile changes from `{1:24,2:2,3:2,7:2,48:2150}` to `{1:24,4:1,8:1,12:1,48:2150}`. `data/REPACKING.json` and the standard-library `tools/replay_repacking.py` reproduce the candidate exactly from pinned PR617 inputs. See [OWNER-REPACKING.md](OWNER-REPACKING.md) for the delta, provenance and verification commands. The sibling `research/complex-571-cold14-b3-repacking-audit/` records admission evidence.
+
+This changes the owner map within the inherited supplier family. It claims no optimal packing, new supplier, unconditional theorem or complete Lean proof. The older search inputs and narrative below are retained as **PR617 history**, not as instructions for reproducing this new map. Use the package's unchanged `verify.py` for strict admission; the older generic witness tool in this checkout lacks the later cold-end step types. WITNESS/EXPECTED metadata is synchronized from the recomputed package admission values.
+
+---
+
 # complex-571-cold14-b3: conditional κ 0.001635183729255778
 
 ## Definition
